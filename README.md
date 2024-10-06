@@ -1,9 +1,9 @@
-# m2ag-webthings-client
+# mta-iot-client
 
 
-beta 2, 10/2/21
+beta 2, 10/5/24
 
-Supports webthingsio
+
 
 
 
